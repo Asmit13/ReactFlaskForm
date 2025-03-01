@@ -3,6 +3,9 @@
 ## Overview
 This project is a simple registration form built using React for the frontend, Flask for the backend, and MySQL for data storage. The form collects user details (name, email, phone, and city) and saves them to a MySQL database through a RESTful API.
 
+<img width="791" alt="Screenshot 2568-03-01 at 4 45 20 PM" src="https://github.com/user-attachments/assets/5a5272da-7021-4369-8103-bde7a10f10dd" />
+
+
 ## Technologies Used
 - **Frontend:** React, Axios
 - **Backend:** Flask, Flask-CORS, MySQL Connector
